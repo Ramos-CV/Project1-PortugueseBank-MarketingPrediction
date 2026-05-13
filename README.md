@@ -1,6 +1,8 @@
 # Project1-PortugueseBank-MarketingPrediction
 Create a predictive model which will help the bank marketing team to know which customer will buy the product.
 
+This was one of the projects to finish my Data Science Course. 
+
 Task 1:-Prepare a complete data analysis report on the given data.
 
 Task 2:-Create a predictive model which will help the bank marketing team to know which customer will buy the product.
